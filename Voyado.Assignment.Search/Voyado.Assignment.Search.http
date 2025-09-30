@@ -1,0 +1,6 @@
+@Voyado.Assignment.Search_HostAddress = http://localhost:5182
+
+GET {{Voyado.Assignment.Search_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
